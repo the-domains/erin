@@ -1,0 +1,28 @@
+name: erin
+favicon: null
+layout_spectrum: 0.28537486982531846
+typography_spectrum: 0.6295655185822397
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.07289671222679317
+  lightness: 0.11708818841725588
+  saturation: 0.4357461801264435
+  rhythmicContrast: 0.4054079307243228
+purpose: []
